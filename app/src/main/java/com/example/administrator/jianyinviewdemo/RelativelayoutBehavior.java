@@ -11,7 +11,7 @@ import android.widget.RelativeLayout;
 
 
 /**
- * Created by lmt on 16/12/20.
+ * Created by liulang on 17/07/12.
  */
 
 public class RelativelayoutBehavior extends CoordinatorLayout.Behavior<RelativeLayout> {
