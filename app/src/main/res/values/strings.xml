@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JianYinViewDemo</string>
+    <string name="cheese_ipsum">行宫(元稹)登鹳雀楼(王之涣)新嫁娘词(王建)相思(王维)杂诗(王维)鹿柴(王维)竹里馆(王维)山中送别(王维)问刘十九(白居易)哥舒歌(西鄙人)夜思(李白)怨情(李白)登乐游原(李商隐)听筝(李端)渡汉江(李频)八阵图(杜甫)宿建德江(孟浩然)春晓(孟浩然)春怨(金昌绪)江雪(柳宗元)秋夜寄邱员外(韦应物)终南望余雪(祖咏)宫词(张祜)寻隐者不遇(贾岛)送崔九(裴迪)送灵澈(刘长卿)听弹琴(刘长卿)送上人(刘长卿)玉台体(权德舆)</string>
+    <string name="checkin">Checkin</string>
+
+    <string name="menu_night_mode">Night mode</string>
+    <string name="menu_night_mode_system">Follow system</string>
+    <string name="menu_night_mode_day">Day (always)</string>
+    <string name="menu_night_mode_night">Night (always)</string>
+    <string name="menu_night_mode_auto">Auto</string>
+</resources>
